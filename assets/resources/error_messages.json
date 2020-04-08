@@ -1,0 +1,10 @@
+{
+    "invalid_username_or_password" : "You have entered an invalid username or password.",
+    "invalid_grant": "Username or password cannot be empty",
+    "connection_timeout": "Connection timeout occurred.",
+    "connection_offline": "Connection to API server failed, Check if you are offline.",
+    "received_timeout": "Received timeout with api server",
+    "send_timeout": "Request timed out.",
+    "request_cancelled": "Request cancelled."
+} 
+
